@@ -23,3 +23,10 @@ The order of problems will follow my summary in the following link: [算法学�
      - [source code](20201218/LCOF.java)
    - [x] [155.MinStack](https://leetcode-cn.com/problems/min-stack/)
      - [source code](20201218/MinStack.java)
+
+## D4-2020/12/19
+- **stack -  medium**
+   - [x] [256.Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
+     - [source code](20201219/SubarraySumEqualsK.java)
+   - [x] [169. Majority Element](https://leetcode-cn.com/problems/majority-element/)
+     - [source code](20201219/MajorityElement.java)
