@@ -30,3 +30,10 @@ The order of problems will follow my summary in the following link: [算法学�
      - [source code](20201219/SubarraySumEqualsK.java)
    - [x] [169. Majority Element](https://leetcode-cn.com/problems/majority-element/)
      - [source code](20201219/MajorityElement.java)
+	 
+## D4-2020/12/20
+- **stack -  medium**
+   - [x] [48. Rotate Image](https://leetcode-cn.com/problems/rotate-image/)
+     - [source code](20201220/RotateImage.java)
+   - [x] [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
+     - [source code](20201220/青蛙跳台阶问题.java)
