@@ -37,3 +37,10 @@ The order of problems will follow my summary in the following link: [算法学�
      - [source code](20201220/RotateImage.java)
    - [x] [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
      - [source code](20201220/青蛙跳台阶问题.java)
+
+## D5-2020/12/21
+- **stack -  easy**
+   - [x] [922. Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)
+     - [source code](20201221/SortArrayByParityII.java)
+   - [x] [226. Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)
+     - [source code](20201221/InvertBinaryTree.java)
