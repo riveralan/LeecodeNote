@@ -44,3 +44,18 @@ The order of problems will follow my summary in the following link: [算法学�
      - [source code](20201221/SortArrayByParityII.java)
    - [x] [226. Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)
      - [source code](20201221/InvertBinaryTree.java)
+
+
+## D6-2020/12/22
+- **stack -  easy**
+   - [x] [922. Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)
+     - [source code](20201221/SortArrayByParityII.java)
+   - [x] [226. Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)
+     - [source code](20201221/InvertBinaryTree.java)
+	 
+## D7-2020/12/23
+- **stack -  easy**
+   - [x] [51. TreeDeep](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)
+     - [source code](20201223/TreeDeep.java)
+   - [x] [48.maxLengthSubString](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)
+     - [source code](20201223/maxLengthSubString.java)
