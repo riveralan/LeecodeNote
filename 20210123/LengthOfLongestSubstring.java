@@ -8,7 +8,7 @@ public class LengthOfLongestSubstring {
     /**
      * 解题思路：滑动窗口
      * 1、每次往回检查重复的
-     *  2、当发现重复时，
+     *  2、当发现重复时，记录重复为，不继续往回检查了
      */
     public int lengthOfLongestSubstring(String s) {
         if(s.length()==0){
