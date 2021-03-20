@@ -1,7 +1,5 @@
 public class IsMatch {
     //动态规划本质上是枚举（不重复的暴力枚举），因此其复杂度很好分析，有多少个状态就要被计算多少次，复杂度就为多少。
-    //https://leetcode-cn.com/problems/regular-expression-matching/solution/shua-chuan-lc-dong-tai-gui-hua-jie-fa-by-zn9w/
-
     public boolean isMatch(String ss, String pp) {
         // 技巧：往原字符头部插入空格，这样得到 char 数组是从 1 开始，而且可以使得 f[0][0] = true，可以将 true 这个结果滚动下去
         int n = ss.length(), m = pp.length();
@@ -30,4 +28,6 @@ public class IsMatch {
         }
         return f[n][m];
     }
+
+
 }
