@@ -1,3 +1,5 @@
+package LeecodeNote.day40;
+
 public class NextPermutation {
     public void nextPermutation(int[] nums) {
         if (nums.length == 1) {
