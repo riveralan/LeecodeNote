@@ -7,11 +7,8 @@
 public class LengthOfLongestSubstring {
     /**
      * 解题思路：滑动窗口
-<<<<<<< HEAD:20210123/LengthOfLongestSubstring.java
      * 1、每次往回检查重复的
      *  2、当发现重复时，记录重复为，不继续往回检查了
-=======
->>>>>>> 0fb9588ff467cfb10368aa856a3f5792da092e36:20210110/LengthOfLongestSubstring.java
      */
     public int lengthOfLongestSubstring(String s) {
         if(s.length()==0){
