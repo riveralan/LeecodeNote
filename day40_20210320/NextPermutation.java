@@ -1,4 +1,4 @@
-package LeecodeNote.day40;
+package LeecodeNote.day40_20210320;
 
 public class NextPermutation {
     public void nextPermutation(int[] nums) {

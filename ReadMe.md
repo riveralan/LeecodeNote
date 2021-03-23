@@ -253,4 +253,4 @@ difficulty level ：
 
 ## Day40-2021/03/21
 - :purple_heart: [31. Next Permutation](https://leetcode-cn.com/problems/next-permutation/)
-    - [source code](day40/NextPermutation.java)
+    - [source code](day40_20210320/NextPermutation.java)
